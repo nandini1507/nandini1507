@@ -1,6 +1,7 @@
 ## Hi there 👋
 👋 Hi, I’m Nandini  
 📚 Currently pursuing BTech in Stream Artificial Intelligence and Machine Learning
+
 🔍 Data Science & Analytics enthusiast  
 💻 Skilled in Python, Git, Jupyter, and Streamlit  
 📊 Passionate about building clear, recruiter‑ready workflows and visual explanations   
